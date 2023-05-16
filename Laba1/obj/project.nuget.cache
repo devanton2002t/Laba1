@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "17GF5RskAoZVzWGNSCA27KfeEteQ76ylV++n/YAEvSnj1E/yoWvh6bdY4ai0FYKaQFUMg1JcOZNYc9F/1eJLnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DANIL\\Desktop\\ВУЗ\\Паштет\\Laba1\\Laba1\\Laba1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0-preview.2.23128.3\\microsoft.entityframeworkcore.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0-preview.2.23128.3\\microsoft.entityframeworkcore.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0-preview.2.23128.3\\microsoft.entityframeworkcore.analyzers.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.0-preview.2.23128.3\\microsoft.entityframeworkcore.design.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0-preview.2.23128.3\\microsoft.entityframeworkcore.relational.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0-preview.2.23128.3\\microsoft.entityframeworkcore.tools.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0-preview.2.23128.3\\microsoft.extensions.caching.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0-preview.2.23128.3\\microsoft.extensions.caching.memory.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.2.23128.3\\microsoft.extensions.configuration.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.2.23128.3\\microsoft.extensions.dependencyinjection.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.2.23128.3\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0-preview.2.23128.3\\microsoft.extensions.dependencymodel.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-preview.2.23128.3\\microsoft.extensions.logging.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.2.23128.3\\microsoft.extensions.logging.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.2.23128.3\\microsoft.extensions.options.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.2.23128.3\\microsoft.extensions.primitives.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\npgsql\\8.0.0-preview.1\\npgsql.8.0.0-preview.1.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0-preview.1\\npgsql.entityframeworkcore.postgresql.8.0.0-preview.1.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.2.23128.3\\system.text.encodings.web.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "C:\\Users\\DANIL\\.nuget\\packages\\system.text.json\\8.0.0-preview.2.23128.3\\system.text.json.8.0.0-preview.2.23128.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,114 @@
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.csproj.AssemblyReference.cache
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.AssemblyInfo.cs
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Laba1.exe
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Laba1.deps.json
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Laba1.runtimeconfig.json
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Laba1.pdb
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Npgsql.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.csproj.CopyComplete
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\refint\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.pdb
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\Laba1.genruntimeconfig.cache
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\obj\Debug\net7.0\ref\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\DANIL\Desktop\ВУЗ\Временное расположение кодов\Laba1\Laba1\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Laba1.exe
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Laba1.deps.json
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Laba1.runtimeconfig.json
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Laba1.pdb
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Npgsql.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.csproj.AssemblyReference.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.AssemblyInfo.cs
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.csproj.CopyComplete
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\refint\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.pdb
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\Laba1.genruntimeconfig.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1\Laba1\obj\Debug\net7.0\ref\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Laba1.exe
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Laba1.deps.json
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Laba1.runtimeconfig.json
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Laba1.pdb
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Npgsql.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.csproj.AssemblyReference.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.AssemblyInfo.cs
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.csproj.CopyComplete
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\refint\Laba1.dll
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.pdb
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\Laba1.genruntimeconfig.cache
+C:\Users\DANIL\Desktop\ВУЗ\Панфилов\Laba1P\Laba1\obj\Debug\net7.0\ref\Laba1.dll
